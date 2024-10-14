@@ -2,9 +2,9 @@ import React from 'react';
 import { NavigationContainer } from '@react-navigation/native';
 import { createDrawerNavigator } from '@react-navigation/drawer';
 
-import HomeScreen from './Screen/HomeScreen';
-import AboutScreen from './Screen/AboutScreen';
-import ContactScreen from './Screen/ContactScreen';
+import HomeScreen from './Screens/HomeScreen'
+import ContactScreen from './Screens/ContactScreen'
+import AboutScreen from './Screens/AboutScreen'
 
 const Drawer = createDrawerNavigator();
 
