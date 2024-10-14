@@ -28,3 +28,5 @@
 ![image](https://github.com/user-attachments/assets/cab2bfd2-82e4-480c-9a88-c26e380b776b)
 
 その場合は、必要なバージョンをインストールする。
+
+それをうまく利用するんだ！(◕◡◕)
