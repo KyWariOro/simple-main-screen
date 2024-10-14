@@ -11,10 +11,10 @@ const Drawer = createDrawerNavigator();
 const App = () => {
   return (
     <NavigationContainer>
-      <Drawer.Navigator initialRouteName='Home'>
-        <Drawer.Screen name='Home' component={HomeScreen}/>
-        <Drawer.Screen name='About' component={AboutScreen}/>
-        <Drawer.Screen name='Contact' component={ContactScreen}/>
+      <Drawer.Navigator initialRouteName='原発'>
+        <Drawer.Screen name='原発' component={HomeScreen}/>
+        <Drawer.Screen name='詳細情報' component={AboutScreen}/>
+        <Drawer.Screen name='接触' component={ContactScreen}/>
 
       </Drawer.Navigator>
     </NavigationContainer>
